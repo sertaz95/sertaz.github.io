@@ -1,0 +1,40 @@
+---
+title: "S.M. Sertaz Islam"
+subtitle: "Researcher, Educator"
+description-meta: "Quarto Academic Website for Sertaz"
+image: E:\2. Project\12. CHIRAL\3. Website making\sertaz.github.io\Profile photo
+page-layout: full
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:contact.sertazislam@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/sertaz-islam-8322b5268
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0006-0816-6170
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=7BwP9MkAAAAJ&hl=en
+      target: _blank
+---
+
+::: {#hero-heading}
+Here is a refined, academically polished version with corrected grammar and smooth flow, keeping it suitable for a professional website and close to 100 words:
+
+S.M. Sertaz Islam is a medical entomologist in the Department of Parasitology at [Sylhet Agricultural University](https://sau.ac.bd/faculty/faculty_home/124). Their academic work focuses on vector ecology, antimicrobial resistance (AMR), and sustainable energy, with particular emphasis on the ecological and environmental drivers of vector-borne diseases. Through interdisciplinary research, they investigate vector dynamics, resistance mechanisms, and sustainable strategies for vector management and public health improvement. In addition to entomology and parasitology, their interest in sustainable energy reflects a commitment to environmentally responsible, health-integrated development solutions. Sertaz Islam actively contributes to research, collaboration, and scholarly dissemination at the intersection of ecology, health, and sustainability.
+
+
+## Research Interests
+
+Overview of my major research interests across Vector Ecology, Sustainable Energy, AMR.
+
+<img src="files/research/interests.png" alt="Research interests overview"
+       style="width:100%; height:auto; max-width:300px; display:block; margin:20px 0;">
+
+:::
+
